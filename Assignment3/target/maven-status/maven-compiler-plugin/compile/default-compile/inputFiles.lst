@@ -1,0 +1,12 @@
+/Users/abdullahkazimov/Desktop/Assignment3/src/main/java/abdkzmv/wm2/assignment3/aspect/MovieControllerAspect.java
+/Users/abdullahkazimov/Desktop/Assignment3/src/main/java/abdkzmv/wm2/assignment3/exceptions/GlobalExceptionHandler.java
+/Users/abdullahkazimov/Desktop/Assignment3/src/main/java/abdkzmv/wm2/assignment3/Assignment3Application.java
+/Users/abdullahkazimov/Desktop/Assignment3/src/main/java/abdkzmv/wm2/assignment3/model/dto/MovieDto.java
+/Users/abdullahkazimov/Desktop/Assignment3/src/main/java/abdkzmv/wm2/assignment3/repository/MovieRepository.java
+/Users/abdullahkazimov/Desktop/Assignment3/src/main/java/abdkzmv/wm2/assignment3/model/entity/Movie.java
+/Users/abdullahkazimov/Desktop/Assignment3/src/main/java/abdkzmv/wm2/assignment3/init/Initializer.java
+/Users/abdullahkazimov/Desktop/Assignment3/src/main/java/abdkzmv/wm2/assignment3/exceptions/MovieValidationException.java
+/Users/abdullahkazimov/Desktop/Assignment3/src/main/java/abdkzmv/wm2/assignment3/controller/MovieController.java
+/Users/abdullahkazimov/Desktop/Assignment3/src/main/java/abdkzmv/wm2/assignment3/model/mapper/MovieMapper.java
+/Users/abdullahkazimov/Desktop/Assignment3/src/main/java/abdkzmv/wm2/assignment3/service/MovieService.java
+/Users/abdullahkazimov/Desktop/Assignment3/src/main/java/abdkzmv/wm2/assignment3/service/MovieServiceImpl.java

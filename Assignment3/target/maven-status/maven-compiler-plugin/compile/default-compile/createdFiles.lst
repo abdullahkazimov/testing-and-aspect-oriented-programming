@@ -1,0 +1,13 @@
+abdkzmv/wm2/assignment3/repository/MovieRepository.class
+abdkzmv/wm2/assignment3/exceptions/MovieValidationException.class
+abdkzmv/wm2/assignment3/model/dto/MovieDto.class
+abdkzmv/wm2/assignment3/model/entity/Movie.class
+abdkzmv/wm2/assignment3/init/Initializer.class
+abdkzmv/wm2/assignment3/Assignment3Application.class
+abdkzmv/wm2/assignment3/exceptions/GlobalExceptionHandler.class
+abdkzmv/wm2/assignment3/aspect/MovieControllerAspect.class
+abdkzmv/wm2/assignment3/controller/MovieController.class
+abdkzmv/wm2/assignment3/model/mapper/MovieMapper.class
+abdkzmv/wm2/assignment3/service/MovieServiceImpl.class
+abdkzmv/wm2/assignment3/service/MovieService.class
+abdkzmv/wm2/assignment3/model/mapper/MovieMapperImpl.class
